@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    i18n (0.7.0.beta1)
+    money (6.3.0)
+      i18n (>= 0.6.4, <= 0.7.0.dev)
+    power_assert (0.1.4)
+    test-unit (3.0.1)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  money
+  test-unit
